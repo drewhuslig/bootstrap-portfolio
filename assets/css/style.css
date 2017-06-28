@@ -1,0 +1,82 @@
+body{
+	background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_dark1400x900.jpg);
+	background-size: cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+    background-color: black;
+	color: lightgray;
+	font-size: 22px;
+	padding-bottom: 70px;
+}
+
+input{
+	color: black;
+	width: 100%;
+}
+
+input::placeholder{
+	color: lightgray;
+}
+
+img{
+	max-width: 100px;
+	height: auto;
+}
+
+.topnav{
+	background-color: midnightblue;
+	border-color: midnightblue;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: lightgray;
+}
+
+.navbar-default a{
+	color: lightgray;
+}
+
+.header{
+	padding-bottom: 15px;
+	border-style: none;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: lightgray;
+}
+
+.footer{
+	background-color: black;
+	border-top-style: solid;
+	border-color: black;
+	border-top-color: midnightblue;
+	border-width: 1px;
+	color: lightgray;
+	text-align: center;
+	padding-top: 15px;
+	height: 70px;
+}
+
+.panel-body{
+	background: midnightblue;
+}
+
+.panel > .panel-heading{
+	background-color: #333333;
+	color: lightgray;
+}
+
+#profilepic{
+	padding: 3px;
+	border-style: solid;
+	border-color: lightgray;
+	border-width: 1px;
+}
+
+#message{
+	height: 200px;
+}
+
+#meme{
+	
+
+}
